@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "stuname": "fgf",
+      "email": "fg",
+      "id": 11
+    },
+    {
+      "stuname": "b",
+      "email": "n",
+      "id": 12
+    },
+    {
+      "stuname": "nb",
+      "email": "bn",
+      "id": 13
+    },
+    {
+      "stuname": "",
+      "email": "",
+      "id": 14
+    },
+    {
+      "stuname": "",
+      "email": "",
+      "id": 15
+    },
+    {
+      "stuname": "",
+      "email": "",
+      "id": 16
+    }
+  ]
+}
